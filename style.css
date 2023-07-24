@@ -1,0 +1,16 @@
+h1 {
+	color: chartreuse;
+}
+
+h2 {
+	color: #3eb82b;
+	background: purple;
+}
+
+h3 {
+	color: darkblue;
+}
+
+section {
+	background: rgb(135, 132, 132);
+}
