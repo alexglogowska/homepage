@@ -14,3 +14,28 @@ h3 {
 section {
 	background: rgb(135, 132, 132);
 }
+
+.blue {
+	color: blue;
+}
+
+#MA {
+	background: pink;
+}
+
+p{
+	color:blueviolet;
+}
+
+a {
+	color: green; 
+}
+
+section a {
+	color: orange; 
+}
+
+.my-article p {
+	background: black;
+	color: white;
+}
